@@ -1,0 +1,19 @@
+dataset,symptom,category
+Pillar2,cough,Lower respiratory tract
+Pillar2,fever,Systemic
+Pillar2,altered_consciousness,Altered state
+Pillar2,diarrhoea,Gastrointestinal
+Pillar2,fatigue,Systemic
+Pillar2,headache,Systemic
+Pillar2,joint_pain,Systemic
+Pillar2,loss_of_appetite,Gastrointestinal
+Pillar2,muscle_ache,Systemic
+Pillar2,nausea,Gastrointestinal
+Pillar2,nose_bleed,Other
+Pillar2,rash,Other
+Pillar2,runny_nose,Upper respiratory tract
+Pillar2,seizures,Altered state
+Pillar2,sneezing,Upper respiratory tract
+Pillar2,sore_throat,Upper respiratory tract
+Pillar2,vomiting,Gastrointestinal
+Pillar2,loss_of_smell_or_taste,Upper respiratory tract

@@ -1,0 +1,13 @@
+dataset,symptom,category
+CIS,fever,Systemic
+CIS,muscle_ache_myalgia,Systemic
+CIS,fatigue_weakness,Systemic
+CIS,sore_throat,Upper respiratory tract
+CIS,cough,Lower respiratory tract
+CIS,shortness_of_breath,Lower respiratory tract
+CIS,headache,Systemic
+CIS,nausea_vomiting,Gastrointestinal
+CIS,abdominal_pain,Gastrointestinal
+CIS,diarrhoea,Gastrointestinal
+CIS,loss_of_taste,Upper respiratory tract
+CIS,loss_of_smell,Upper respiratory tract

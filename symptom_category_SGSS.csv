@@ -1,0 +1,19 @@
+dataset,symptom,category
+SGSS,cough,Lower respiratory tract
+SGSS,fever,Systemic
+SGSS,altered_consciousness,Altered state
+SGSS,diarrhoea,Gastrointestinal
+SGSS,fatigue,Systemic
+SGSS,headache,Systemic
+SGSS,joint_pain,Systemic
+SGSS,loss_of_appetite,Gastrointestinal
+SGSS,muscle_ache,Systemic
+SGSS,nausea,Gastrointestinal
+SGSS,nose_bleed,Other
+SGSS,rash,Other
+SGSS,runny_nose,Upper respiratory tract
+SGSS,seizures,Altered state
+SGSS,sneezing,Upper respiratory tract
+SGSS,sore_throat,Upper respiratory tract
+SGSS,vomiting,Gastrointestinal
+SGSS,loss_of_smell_or_taste,Upper respiratory tract
